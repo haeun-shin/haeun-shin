@@ -9,6 +9,8 @@
 1. **HOME OFFICE [2020-2021]**
 ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbg9Qym%2FbtqUUpxOC7t%2Fc1MFRNzaik2Tia9DNDpY1K%2Fimg.jpg)
     > GitHub: https://github.com/haeun-shin/shop
+    > 
+    > url은 이력서에 첨부하였습니다.
 
     Spring Framework를 사용하여 진행한 개인 프로젝트입니다.
     CRUD를 상품 테이블과 회원 테이블에 적용하였고, 장바구니 기능과 주문 기능까지 추가로 넣은 프로젝트입니다.
