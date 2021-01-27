@@ -41,10 +41,11 @@
 
     **사용 기술 : BootStrap, JSP, Python, JAVA, MySQL, R**
 
+
 <br />
 
 4. **나의 SNS [2020]**
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b3447a55-eaa3-4559-a501-1785600ab9f7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210127%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210127T052946Z&X-Amz-Expires=86400&X-Amz-Signature=242a34b912e9b8ab5ea1ee65903f7858923971f36367a4791098084ecfe7aa89&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FsB1fJ%2FbtqUM7FdscX%2FtdAjb4jgLhJW3NVIrd4Q1K%2Fimg.jpg)
     > GitHub: https://github.com/haeun-shin/mysns
     > 
     > PPT: https://www.notion.so/SNS-PPT-103f8893c6bd4b62bf23ce631e5be19c
@@ -54,7 +55,7 @@
 
     **사용 기술 : BootStrap, JSP, JAVA, MySQL**
 
-<br />
+<br/>
 
 5. **프론트엔드&웹디자인 [2017-2020]**
 ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FQ7gcX%2FbtqUYGS5ZHs%2F85u6UJRNeBmuwo7CwehBw1%2Fimg.jpg)
@@ -67,7 +68,12 @@
     **사용 기술 : HTML5, CSS3, JavaScript, AdobePhotoshop**
 
 
+<br/><br/>
+
 ---
+
+<br/><br/>
+
 
 ## ⚡ __Skills__
 - Java
