@@ -35,7 +35,6 @@
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/14c5c246-4533-41d7-9305-f09512ac8015/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210127%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210127T052834Z&X-Amz-Expires=86400&X-Amz-Signature=a0e70bc382b527721ee8c129d2dbbcbc8f5172819e1f38a5cf94ecb0af83e3e0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
     > GitHub: https://github.com/haeun-shin/hospital
     > 
-    > PPT: https://www.notion.so/PPT-e87b97b7118046bf85196965b0b644f5
 
     어디가 아픈 지는 알지만, 어디로 가야할 지는 모르는 사람들을 위해 병원을 안내해주기 위한 팀프로젝트입니다.
     Python으로 수집한 병에 대한 질문과 답변 데이터를 자바스크립트 라이브러리인 Leaflet을 이용한 위치기반 서비스를 이용해 해당하는 주변 병원을 안내해주는 서비스입니다. 
@@ -50,7 +49,6 @@
 ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FsB1fJ%2FbtqUM7FdscX%2FtdAjb4jgLhJW3NVIrd4Q1K%2Fimg.jpg)
     > GitHub: https://github.com/haeun-shin/mysns
     > 
-    > PPT: https://www.notion.so/SNS-PPT-103f8893c6bd4b62bf23ce631e5be19c
 
     회원가입한 사용자들이 이용할 수 있는 SNS 개인 프로젝트입니다.
     숫자 페이징이 아닌 더보기 버튼을 누르면 볼 수 있는 게시물이 늘어나도록 설정하였으며, 사용자나 게시물을 검색할 수 있는 기능을 추가하였습니다. 또한 게시물 마다 [좋아요]를 누를 수 있으며, 댓글이 있는 글은 몇 개가 있는지 표시되도록 하였습니다.
